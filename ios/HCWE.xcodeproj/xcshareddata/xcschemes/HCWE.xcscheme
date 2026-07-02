@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "HCET.app"
-               BlueprintName = "HCET"
-               ReferencedContainer = "container:HCET.xcodeproj">
+               BuildableName = "HCWE.app"
+               BlueprintName = "HCWE"
+               ReferencedContainer = "container:HCWE.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "HCETTests.xctest"
-               BlueprintName = "HCETTests"
-               ReferencedContainer = "container:HCET.xcodeproj">
+               BuildableName = "HCWETests.xctest"
+               BlueprintName = "HCWETests"
+               ReferencedContainer = "container:HCWE.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "HCET.app"
-            BlueprintName = "HCET"
-            ReferencedContainer = "container:HCET.xcodeproj">
+            BuildableName = "HCWE.app"
+            BlueprintName = "HCWE"
+            ReferencedContainer = "container:HCWE.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "HCET.app"
-            BlueprintName = "HCET"
-            ReferencedContainer = "container:HCET.xcodeproj">
+            BuildableName = "HCWE.app"
+            BlueprintName = "HCWE"
+            ReferencedContainer = "container:HCWE.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
