@@ -30,10 +30,11 @@ export default function App() {
       }
 
       const permissions = await requestPermission([
-        {
-          accessType: 'read',
-          recordType: 'ExerciseSession',
-        },
+        {accessType: 'read', recordType: 'ExerciseSession'},
+        {accessType: 'read', recordType: 'Distance'},
+        {accessType: 'read', recordType: 'HeartRate'},
+        {accessType: 'read', recordType: 'Steps'},
+        {accessType: 'read', recordType: 'Speed'}
       ]);
 
       console.log('Permissions:', permissions);
